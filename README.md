@@ -10,7 +10,7 @@ Requires a host implementing Mail Host API v5 (the Inbox email integration),
 Node.js 22 or later, and outbound access to the provider through the host.
 No npm packages or build step are required.
 
-1. In Extensions, review and install `https://github.com/cognixws/picode-mail-microsoft`.
+1. In Extensions, review and install `https://github.com/cognixws/cognix-mail-microsoft`.
 2. Review its source, package digest and `mail:sync` / `mail:execute` permissions,
    then enable the extension instance.
 3. Open Inbox → Email. Register the provider's public desktop OAuth client ID
