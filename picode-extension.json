@@ -1,5 +1,6 @@
 {
-  "id": "picode-mail-microsoft",
+  "id": "mail-microsoft",
+  "formerly": ["picode-mail-microsoft"],
   "name": "Microsoft Mail",
   "version": "0.2.1",
   "apiVersion": 5,

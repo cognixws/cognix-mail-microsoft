@@ -48,7 +48,7 @@ reported separately from fixture coverage.
 
 ## Updates
 
-The stable extension ID is `picode-mail-microsoft`. Release 0.2.0 extracts the
+The extension ID is `mail-microsoft` (formerly `picode-mail-microsoft`). Release 0.2.0 extracts the
 previous bundled adapter. Upgrading a legacy local-catalog install requires a
 new Git-source and digest review using the same ID; the host preserves account
 data. Updates to provider mappings do not require a core release while the host
