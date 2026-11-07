@@ -1,6 +1,6 @@
 {
-  "name": "picode-mail-microsoft",
-  "version": "0.2.0",
+  "name": "cognix-mail-microsoft",
+  "version": "0.2.2",
   "private": true,
   "type": "module",
   "engines": {

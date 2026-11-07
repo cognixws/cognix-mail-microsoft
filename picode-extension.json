@@ -1,7 +1,10 @@
 {
-  "id": "picode-mail-microsoft",
+  "id": "mail-microsoft",
+  "formerly": [
+    "picode-mail-microsoft"
+  ],
   "name": "Microsoft Mail",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "apiVersion": 5,
   "publisher": "COGNIX[WS]",
   "description": "Connect and synchronize your Microsoft Mail accounts with the core Inbox.",
